@@ -1,5 +1,4 @@
 from requests import Response
-import json
 
 from utils.api import GoogleMapApi
 from utils.checking import Checking
